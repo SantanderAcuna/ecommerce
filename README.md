@@ -50,7 +50,7 @@ Nuestra tienda online está diseñada para aprovechar varias oportunidades clave
 
 - **📦 Arquitectura MVC**  
 - **👩‍🎨 Diseño Frontend:** HTML5, CSS3, JavaScript  
-- **🔧 Backend:** PHP con Programación Orientada a Objetos (POO)  
+- **🔧 Backend:** Python con Programación Orientada a Objetos (POO)  
 - **💬 Integración con WhatsApp API**
 
 ---
